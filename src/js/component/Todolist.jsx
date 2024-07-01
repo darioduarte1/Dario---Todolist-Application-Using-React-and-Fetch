@@ -16,7 +16,7 @@ const Todolist = () => {
             }
         } catch (error) {
             console.error(error);
-            alert(error.message);
+            
         }
     };
 
